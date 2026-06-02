@@ -1,0 +1,10 @@
+# Block everything by default (security)
+*
+
+# Allow only:
+!reels/
+!reels/**/
+!reels/**/*.mp4
+!.gitignore
+!.gitattributes
+!README.md
